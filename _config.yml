@@ -43,9 +43,9 @@ timezone: Asia/Shanghai #see https://en.wikipedia.org/wiki/List_of_tz_database_t
 ## Author & social ##
 author:
   name: Frank
-  email: bateria2x100@gmail.com  #your Email address e.g. someone@site.com
+   # email: bateria2x100@gmail.com  #your Email address e.g. someone@site.com
    # facebook:  #your Facebook username
-   twitter: @bateria2x100  #your Twitter username
+   # twitter: @bateria2x100  #your Twitter username
    # github:  #your GitHub username
    # googleplus:  #your Google+ username
    # weibo:  #your Weibo username
