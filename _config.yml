@@ -14,9 +14,9 @@
 ## Base settings ##
 # url:  #the base hostname & protocol for your site e.g. https://www.someone.com
 baseurl: /
-title: Someone's blog
+title: Bateria2x100
 description: > #this means to ignore newlines until "nav_lists:"
-  Someone's Blog
+  Podcast de Tecnología.
 
 nav_lists:
   - titles:
@@ -42,16 +42,16 @@ timezone: Asia/Shanghai #see https://en.wikipedia.org/wiki/List_of_tz_database_t
 
 ## Author & social ##
 author:
-  name: Someone
-  # email:  #your Email address e.g. someone@site.com
-  # facebook:  #your Facebook username
-  # twitter:  #your Twitter username
-  # github:  #your GitHub username
-  # googleplus:  #your Google+ username
-  # weibo:  #your Weibo username
-  # douban:  #your Douban username
-  # linkedin:  #your Linkedin username
-
+  name: Frank
+  email: bateria2x100@gmail.com  #your Email address e.g. someone@site.com
+   # facebook:  #your Facebook username
+   twitter: @bateria2x100  #your Twitter username
+   # github:  #your GitHub username
+   # googleplus:  #your Google+ username
+   # weibo:  #your Weibo username
+   # douban:  #your Douban username
+   # linkedin:  #your Linkedin username
+  
 ## Comment system (Disqus) ##
 disqus:
   # shortname:  #the Disqus shortname for the site
@@ -67,7 +67,7 @@ gitalk:
     # - owner
 
 ## Google Analytics ##
-# ga_tracking_id:  #Google analytics id for the site
+# ga_tracking_id: UA-78496516-1 #Google analytics id for the site 
 
 ## Reading quantity (LeanCloud) ##
 leancloud:
