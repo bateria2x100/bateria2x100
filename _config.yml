@@ -26,16 +26,13 @@ nav_lists:
   - titles:
   	   en: Buscar
        url: /search/index.html
-  - titles:
-      en: About
-      url: /about.html
-
-
+  
 # paths:
 #   base: /
 #   home: /
 #   all:  /all.html
 #   rss:  /feed.xml
+#   search: /search/index.html
 
 ## GitHub repository (if the site is hosted by GitHub) ##
 # repository:  #e.g. someone/someone.github.io
