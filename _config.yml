@@ -12,7 +12,7 @@
 #    `--'   `----''--'   '--' `--'
 
 ## Base settings ##
-# url:  #the base hostname & protocol for your site e.g. https://www.someone.com
+# url: https://bateria2x100.github.io  #the base hostname & protocol for your site e.g. https://www.someone.com
 baseurl: /
 title: Bateria2x100
 description: > #this means to ignore newlines until "nav_lists:"
