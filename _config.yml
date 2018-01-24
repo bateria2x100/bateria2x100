@@ -17,19 +17,20 @@ baseurl: /
 title: Bateria2x100
 description: > #this means to ignore newlines until "nav_lists:"
   Podcast de Tecnología.
-  
+
   name: Bateria2x100
   description: Podcast de tecnología
   url: https://bateria2x100.github.io
 
 nav_lists:
   - titles:
+  	   en: Buscar
+       url: /search/index.html
+  - titles:
       en: About
       url: /about.html
-  - titles: 
-  	en: Buscar
-     url: /search/index.html
-      
+
+
 # paths:
 #   base: /
 #   home: /
@@ -55,7 +56,7 @@ author:
    # weibo:  #your Weibo username
    # douban:  #your Douban username
    # linkedin:  #your Linkedin username
-  
+
 ## Comment system (Disqus) ##
 disqus:
   # shortname:  #the Disqus shortname for the site
@@ -71,7 +72,7 @@ gitalk:
     # - owner
 
 ## Google Analytics ##
-# ga_tracking_id: UA-78496516-1 #Google analytics id for the site 
+# ga_tracking_id: UA-78496516-1 #Google analytics id for the site
 
 ## Reading quantity (LeanCloud) ##
 leancloud:
