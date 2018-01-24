@@ -27,7 +27,8 @@ nav_lists:
       en: About
       url: /about.html
  
-- title: Buscar
+  - titles: 
+  	en: Buscar
      url: /search/index.html
       
 # paths:
