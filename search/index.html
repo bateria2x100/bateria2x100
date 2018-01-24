@@ -1,7 +1,7 @@
 ---
-layout: default
+layout: blog-default
 title: Search
-search_omit: false
+search_omit: true
 ---
 
   <h1>Search</h1>
@@ -19,14 +19,12 @@ search_omit: false
   </p>
   <div data-search-results></div>
 
-
-
   <!-- Search result template -->
   <script type="text/x-template" id="search-result">
     <div>
       <h1><a href="##Url##">##Title##</a></h1>
       <h2><a href="##Url##">##Date##</a></h2>
-      <a href="##Url##">Read &ldquo;##Title##&rdquo;</a>
+    <!--  <a href="##Url##">Read &ldquo;##Title##&rdquo;</a> -->
     </div>
   </script>
 
