@@ -26,11 +26,8 @@ nav_lists:
  - title:
      en: Sobre mi
      url: /about.html
- - title: Buscar
-     url: /search/index.htm
+ 
 	   
-	   
-  
 # paths:
 #   base: /
 #   home: /
