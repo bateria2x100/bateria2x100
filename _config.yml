@@ -23,16 +23,24 @@ description: > #this means to ignore newlines until "nav_lists:"
   url: https://bateria2x100.github.io
 
 nav_lists:
-  - titles:
-  	   en: Buscar
-       url: /search/index.html
+ - titles:
+     en: About
+     zh: 关于
+     zh-Hans: 关于
+     zh-Hant: 關於
+   url: /about.html
+ - title: Buscar
+   url: /search/index.htm
+	   
+	   
   
 # paths:
 #   base: /
 #   home: /
 #   all:  /all.html
-#   rss:  /feed.xml
 #   search: /search/index.html
+#   rss:  /feed.xml
+
 
 ## GitHub repository (if the site is hosted by GitHub) ##
 # repository:  #e.g. someone/someone.github.io
