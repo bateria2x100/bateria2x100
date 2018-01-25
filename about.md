@@ -1,11 +1,11 @@
 ---
 layout: page
-title:
+titles:
   en: About
 key: page-about
 ---
 
-gggFrancescgJust say something about yourself. :+1:
+gggddFrancescgJust say something about yourself. :+1:
 
 {% highlight javascript %}
   (() => console.log('hello, world!'))();
