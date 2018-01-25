@@ -1,7 +1,7 @@
 ---
 layout: page
 title:
-  en: Sobre
+  en: about
 key: page-about
 ---
 
